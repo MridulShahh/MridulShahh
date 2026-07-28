@@ -24,7 +24,7 @@ Software Engineer passionate about building scalable web applications, solving r
 
 ##  Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230a0a0a.svg?style=for-the-badge&logo=linkedin&logoColor=4a9eff)](https://www.linkedin.com/in/mridul-shah/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230a0a0a.svg?style=for-the-badge&logo=linkedin&logoColor=4a9eff)](https://www.linkedin.com/in/-mridul-shah/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-%230a0a0a.svg?style=for-the-badge&logo=github&logoColor=4a9eff)](https://github.com/MridulShahh)
 
