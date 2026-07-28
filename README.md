@@ -13,16 +13,16 @@ Software Engineer passionate about building scalable web applications, solving r
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer
-- ⚙️ Backend Development Enthusiast
-- 🤖 Building AI-powered Applications
-- 🌱 Currently learning System Design & Advanced Backend
-- 📈 Solved **250+ DSA Problems**
-- 🎯 Interested in Software Engineering, AI & Cloud
+-  Full Stack Developer
+-  Backend Development Enthusiast
+-  Building AI-powered Applications
+-  Currently learning System Design & Advanced Backend
+-  Solved **250+ DSA Problems**
+-  Interested in Software Engineering, AI & Cloud
 
 ---
 
-## 🌐 Connect
+##  Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230a0a0a.svg?style=for-the-badge&logo=linkedin&logoColor=4a9eff)](https://www.linkedin.com/in/-mridul-shah/)
 
@@ -32,7 +32,7 @@ Software Engineer passionate about building scalable web applications, solving r
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ### Languages
 
@@ -66,7 +66,7 @@ Software Engineer passionate about building scalable web applications, solving r
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 ### 🛒 Smart Cart Optimization Engine
 - Cross-sell recommendation engine
@@ -83,7 +83,7 @@ Software Engineer passionate about building scalable web applications, solving r
 
 ---
 
-# 📚 Computer Science
+#  Computer Science
 
 - Data Structures & Algorithms
 - Object-Oriented Programming
@@ -93,19 +93,15 @@ Software Engineer passionate about building scalable web applications, solving r
 
 ---
 
-# 🏆 Achievements
+#  Achievements
 
 🏅 250+ DSA Problems Solved
-
-🏅 JU HackQuest Hackathon Participant
-
-🏅 Google Developer Student Club Member
 
 🏅 Multiple EC-Council Certifications
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=github_dark&hide_border=true&show_icons=true&icon_color=4a9eff)
 
@@ -115,7 +111,7 @@ Software Engineer passionate about building scalable web applications, solving r
 
 ---
 
-## 💡 Quote
+##  Quote
 
 > "Building software isn't just writing code—it's solving problems that matter."
 
