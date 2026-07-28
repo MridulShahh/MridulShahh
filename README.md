@@ -101,16 +101,6 @@ Software Engineer passionate about building scalable web applications, solving r
 
 ---
 
-#  GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=github_dark&hide_border=true&show_icons=true&icon_color=4a9eff)
-
-![](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ##  Quote
 
 > "Building software isn't just writing code—it's solving problems that matter."
