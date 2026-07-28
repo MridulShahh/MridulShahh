@@ -11,7 +11,7 @@ Software Engineer passionate about building scalable web applications, solving r
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 -  Full Stack Developer
 -  Backend Development Enthusiast
